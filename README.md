@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 ### 🚀 [Rocket ML](link_to_rocket_ml)
 머신러닝 모델링의 정교함을 담은 프로젝트. 여기서는 로켓처럼 빠르고 정확한 모델링이 이뤄집니다.
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=67&height=250)
-
 
 ## <center>📈 Data-Driven Insights & Machine Learning Modeling 🚀</center>
 <div  style="display:flex; flex-direction:row;">
@@ -36,6 +32,9 @@ Here are some ideas to get you started:
         <img  src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"> 
     </a>
 </div><br>
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=67&height=250)
 
 ## 📞 Contact 📞
 <div  style="display:flex; flex-direction:row;">
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
     </a>
 </div><br>
     
-## 🔨 Stack 🔨
+## 🔨 Stacks 🔨
 <div  style="display:flex; flex-direction:row;">
     <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
