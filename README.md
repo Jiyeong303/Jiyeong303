@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=67&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Jiyeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=67&height=250)
 
 ## 📞 Contact 📞
 <div  style="display:flex; flex-direction:row;">
@@ -9,7 +9,7 @@
         <img  src="https://img.shields.io/badge/Naver-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
 </div><br>
-    
+
 ## 🔨 Stacks 🔨
 <div  style="display:flex; flex-direction:row;">
     <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
